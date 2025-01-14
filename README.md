@@ -51,6 +51,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local.
 3. Ejecutamos los siguientes comandos mvn
     ```bash
     mvn clean compile package
+    
+    ```bash
     mvn spring-boot:run 
 
 4. Para asegurar que el micro esta correctamente arriba ir a http://localhost:8761/
